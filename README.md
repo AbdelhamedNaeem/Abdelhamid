@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Glamera**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI** and **Combine**
 
 - 📫 How to reach me **abdnaeem94@icloud.com**
 
